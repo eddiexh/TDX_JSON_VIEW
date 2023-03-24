@@ -6,12 +6,12 @@
 
 ## 使用方式
 1. 註冊TDX帳號([交通部運輸資料流通服務平臺TDX](https://tdx.transportdata.tw/))
-2. 編輯TDX.py檔案，在Line 5.6輸入自己的TDX-Client Id及Client Secret
+2. 編輯tdx.py檔案，在Line 5.6輸入自己的TDX-Client Id及Client Secret
 3. 安裝requirements.txt
     ```
     pip install -r requirements.txt
     ```
-4. 執行TDX.py
+4. 執行tdx.py
 5. 輸入Request URL後Enter
 6. 即可顯示此API的JSON資料，並且程式會自動複製輸出內容
 
